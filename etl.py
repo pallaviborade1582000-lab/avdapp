@@ -7,5 +7,5 @@ data = {
 }
 df =pd.DataFrame(data)
 
-st.title("Streamlit Application")
+st.title("Streamlit App-2")
 st.write(df)
